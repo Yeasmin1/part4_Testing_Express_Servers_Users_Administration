@@ -1,0 +1,6 @@
+# Logs
+/node_modules
+.env
+#Ignore NOTE.md file
+NOTE.md
+PEARSONALNOTES.md
